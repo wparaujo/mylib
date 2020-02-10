@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
     s.name        = 'mylib'
-    s.version     = '0.2.1'
+    s.version     = '0.2.2'
     s.date        = '2020-02-10'
     s.summary     = "MyLib. Manager for develoment components, libs, pods..."
     s.description = "Manages several components, libs, pods..."
