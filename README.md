@@ -15,7 +15,7 @@ Os comandos baseiam-se no git, levando em conta que as dependências estão hosp
 
 Executa o comando status do git para todos os componentes.
 
-````bash
+```bash
 mylib status
 ```
 
