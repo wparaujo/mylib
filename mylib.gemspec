@@ -8,7 +8,11 @@ Gem::Specification.new do |s|
     s.email       = 'wparaujo7@gmail.com'
     s.files       = ["lib/mylib.rb"]
     s.executables << 'mylib'
+
     s.add_runtime_dependency 'thor'
+    s.add_runtime_dependency 'rspec'
+    s.add_runtime_dependency 'claide'
+    
     s.homepage    = 'https://github.com/wparaujo/mylib'
     s.license       = 'MIT'
   end

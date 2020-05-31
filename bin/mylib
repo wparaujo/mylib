@@ -2,4 +2,4 @@
 
 require 'mylib'
 
-MyLib.start(ARGV)
+MyLib::Command.run(ARGV)
